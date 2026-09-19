@@ -75,6 +75,7 @@ The channel customers still use when the answer matters.
 - **[Genesys](https://www.genesys.com/)** — The enterprise end, and the one a large organisation's procurement already knows. `Paid` `Web` `API`
 - **[Talkdesk](https://www.talkdesk.com/)** — Industry-specific packages, which matters where regulation shapes what an agent may say. `Paid` `Web` `API`
 - **[Verint](https://www.verint.com/)** — Analyses recorded calls at archive scale, which is what compliance reviews actually need. `Paid` `Web` `API`
+- **[Workforce Wave](https://www.workforcewave.com/)** — Answers inbound calls, books appointments, and captures leads for small teams without a contact centre. `Paid` `Web`
 
 ## Knowledge bases
 
