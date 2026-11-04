@@ -111,6 +111,7 @@ What one or two people can run without a support platform.
 - **[Chatbase](https://www.chatbase.co/)** — A bot trained on your documentation in an afternoon, with a log of what it failed on. `Freemium` `Web` `API`
 - **[Crisp](https://www.crisp.chat/)** — Chat, inbox, and a help centre on a tier a pre-revenue company can stay on. `Freemium` `Web` `iOS` `Android`
 - **[HelpCrunch](https://helpcrunch.com/)** — Chat, email, and a knowledge base bundled at one low per-seat price. `Paid` `Web` `iOS` `Android`
+- **[Pipp](https://pipp.so/)** — A shared inbox for small teams, with built-in AI and MCP access so your own agent can answer customers too. `Free` `Web`
 - **[Pylon](https://www.pylon.com/)** — Runs support in the Slack channel a business customer already talks to you in. `Paid` `Web` `API`
 - **[Re:amaze](https://reamaze.com/)** — One inbox over chat, email, and social at a price a store under fifty tickets a day pays. `Paid` `Web` `API`
 - **[Tidio](https://www.tidio.com/)** — Automated replies with a free tier, aimed at a site that has never had support software. `Freemium` `Web` `iOS` `Android`
